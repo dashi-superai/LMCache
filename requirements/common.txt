@@ -33,5 +33,5 @@ sortedcontainers
 # whatever torch version that they have
 # 4. this torch version may also be overridden inside of LMCache/docker/Dockerfile
 torch
-transformers >= 5.12.0
+transformers >= 5.13.0
 uvicorn
